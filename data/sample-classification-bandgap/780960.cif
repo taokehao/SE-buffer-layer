@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li5AuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77990200
+_cell_length_b   4.78043213
+_cell_length_c   10.05215083
+_cell_angle_alpha   100.75719938
+_cell_angle_beta   100.51812178
+_cell_angle_gamma   102.79774394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5AuO4
+_chemical_formula_sum   'Li10 Au2 O8'
+_cell_volume   213.95601535
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00030800  0.99695000  0.99979500  1
+  Li  Li1  1  0.81087500  0.31147700  0.79225700  1
+  Li  Li2  1  0.68331600  0.18867500  0.21037200  1
+  Li  Li3  1  0.57484200  0.57999200  0.28219700  1
+  Li  Li4  1  0.05834600  0.06365100  0.29210900  1
+  Li  Li5  1  0.42416700  0.42163900  0.71652900  1
+  Li  Li6  1  0.93833400  0.93616200  0.70988800  1
+  Li  Li7  1  0.75554200  0.24996800  0.49868400  1
+  Li  Li8  1  0.17638300  0.68022100  0.21555100  1
+  Li  Li9  1  0.32859500  0.82464900  0.78178300  1
+  Au  Au10  1  0.24818900  0.75037900  0.50049500  1
+  Au  Au11  1  0.49782200  0.50006700  0.00036000  1
+  O  O12  1  0.71385500  0.22466200  0.35318300  1
+  O  O13  1  0.78119600  0.28304200  0.64727600  1
+  O  O14  1  0.97046400  0.96358300  0.85340200  1
+  O  O15  1  0.03024000  0.03074200  0.14799700  1
+  O  O16  1  0.52214200  0.52947100  0.14750500  1
+  O  O17  1  0.47088000  0.47479100  0.85294800  1
+  O  O18  1  0.22307500  0.72435100  0.35301500  1
+  O  O19  1  0.27843100  0.77310500  0.64776400  1

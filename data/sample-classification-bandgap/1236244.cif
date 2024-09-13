@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiEu2CoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.32225685
+_cell_length_b   9.39452331
+_cell_length_c   5.10796118
+_cell_angle_alpha   122.37857192
+_cell_angle_beta   49.29405493
+_cell_angle_gamma   110.55731184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEu2CoO4
+_chemical_formula_sum   'Li1 Eu2 Co1 O4'
+_cell_volume   102.06462096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00375900  0.90803900  0.25677800  1
+  Eu  Eu1  1  0.00819600  0.64984600  0.49584900  1
+  Eu  Eu2  1  0.99213100  0.31127700  0.67176200  1
+  Co  Co3  1  0.99320300  0.04961400  0.91035700  1
+  O  O4  1  0.00526800  0.34154100  0.18874900  1
+  O  O5  1  0.50697900  0.07723200  0.42633400  1
+  O  O6  1  0.51318600  0.88565200  0.73104300  1
+  O  O7  1  0.99300300  0.60701800  0.95495600  1

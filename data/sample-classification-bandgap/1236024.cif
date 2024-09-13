@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2LiZn2(SO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99254053
+_cell_length_b   6.19245907
+_cell_length_c   7.53333282
+_cell_angle_alpha   100.30011594
+_cell_angle_beta   90.10985139
+_cell_angle_gamma   90.22197874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiZn2(SO)2
+_chemical_formula_sum   'Ba2 Li1 Zn2 S2 O2'
+_cell_volume   183.24791515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.58256700  0.26907700  0.18911000  1
+  Ba  Ba1  1  0.58299000  0.67311300  0.81639700  1
+  Li  Li2  1  0.57948800  0.11873400  0.56987400  1
+  Zn  Zn3  1  0.08603600  0.76763200  0.18584300  1
+  Zn  Zn4  1  0.07625300  0.19037100  0.83072600  1
+  S  S5  1  0.58747200  0.79563900  0.35028800  1
+  S  S6  1  0.08302400  0.32976600  0.55658700  1
+  O  O7  1  0.08338400  0.47318600  0.01640700  1
+  O  O8  1  0.08878500  0.96581600  0.99402800  1

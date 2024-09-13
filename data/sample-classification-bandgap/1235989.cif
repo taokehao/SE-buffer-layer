@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr4LiY2(RuO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74076268
+_cell_length_b   6.04833214
+_cell_length_c   8.30546935
+_cell_angle_alpha   88.42662389
+_cell_angle_beta   91.30025529
+_cell_angle_gamma   90.87975680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4LiY2(RuO6)2
+_chemical_formula_sum   'Sr4 Li1 Y2 Ru2 O12'
+_cell_volume   288.16856939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.51748700  0.55279900  0.25698800  1
+  Sr  Sr1  1  0.98859500  0.05867100  0.24705600  1
+  Sr  Sr2  1  0.03689400  0.90359100  0.71818100  1
+  Sr  Sr3  1  0.45709100  0.44770700  0.75240300  1
+  Li  Li4  1  0.85101500  0.21249400  0.85595100  1
+  Y  Y5  1  0.51020800  0.99930600  0.49782400  1
+  Y  Y6  1  0.99758400  0.53722500  0.01571800  1
+  Ru  Ru7  1  0.48830500  0.00903300  0.00031500  1
+  Ru  Ru8  1  0.00234800  0.48831700  0.49977700  1
+  O  O9  1  0.92078700  0.49710700  0.74128600  1
+  O  O10  1  0.59910800  0.04109200  0.76576700  1
+  O  O11  1  0.08387400  0.48305500  0.26824900  1
+  O  O12  1  0.41804800  0.97902600  0.23219800  1
+  O  O13  1  0.81029800  0.76617100  0.45964700  1
+  O  O14  1  0.68562600  0.29133800  0.04002500  1
+  O  O15  1  0.19864200  0.21732300  0.53949800  1
+  O  O16  1  0.30731700  0.73407300  0.94958600  1
+  O  O17  1  0.19479900  0.19284900  0.95211900  1
+  O  O18  1  0.28353900  0.69165600  0.53970000  1
+  O  O19  1  0.77142300  0.82027600  0.04392400  1
+  O  O20  1  0.73118100  0.29564100  0.45191300  1

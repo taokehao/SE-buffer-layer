@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMg14Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33831293
+_cell_length_b   6.33831243
+_cell_length_c   9.73932597
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg14Co
+_chemical_formula_sum   'Li1 Mg14 Co1'
+_cell_volume   338.84949377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16666700  0.33333300  0.62500000  1
+  Mg  Mg1  1  0.16425554  0.83212727  0.12500000  1
+  Mg  Mg2  1  0.17043953  0.83521927  0.62500000  1
+  Mg  Mg3  1  0.66787273  0.33574446  0.12500000  1
+  Mg  Mg4  1  0.66478073  0.32956047  0.62500000  1
+  Mg  Mg5  1  0.66787273  0.83212727  0.12500000  1
+  Mg  Mg6  1  0.66478073  0.83521927  0.62500000  1
+  Mg  Mg7  1  0.32580061  0.17419939  0.36493288  1
+  Mg  Mg8  1  0.32580061  0.17419939  0.88506712  1
+  Mg  Mg9  1  0.32580061  0.65160222  0.36493288  1
+  Mg  Mg10  1  0.32580061  0.65160222  0.88506712  1
+  Mg  Mg11  1  0.84839778  0.17419939  0.36493288  1
+  Mg  Mg12  1  0.84839778  0.17419939  0.88506712  1
+  Mg  Mg13  1  0.83333300  0.66666700  0.37860361  1
+  Mg  Mg14  1  0.83333300  0.66666700  0.87139639  1
+  Co  Co15  1  0.16666700  0.33333300  0.12500000  1

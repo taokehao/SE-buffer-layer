@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiGd6In2O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81204064
+_cell_length_b   6.81187244
+_cell_length_c   6.81089749
+_cell_angle_alpha   93.07927657
+_cell_angle_beta   93.08301546
+_cell_angle_gamma   93.07926153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGd6In2O12
+_chemical_formula_sum   'Li1 Gd6 In2 O12'
+_cell_volume   314.62308000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.21409800  0.21408100  0.21391800  1
+  Gd  Gd1  1  0.06661900  0.58787400  0.25704700  1
+  Gd  Gd2  1  0.25690700  0.06660600  0.58771200  1
+  Gd  Gd3  1  0.44081500  0.73974700  0.93579700  1
+  Gd  Gd4  1  0.58784900  0.25697800  0.06675600  1
+  Gd  Gd5  1  0.73975700  0.93568700  0.44085200  1
+  Gd  Gd6  1  0.93577500  0.44091600  0.73961000  1
+  In  In7  1  0.98101600  0.98082600  0.98106600  1
+  In  In8  1  0.49773400  0.49783900  0.49773400  1
+  O  O9  1  0.09805900  0.68567700  0.92817000  1
+  O  O10  1  0.07504100  0.93455100  0.31342400  1
+  O  O11  1  0.18318500  0.39397100  0.51361400  1
+  O  O12  1  0.31333800  0.07508700  0.93457600  1
+  O  O13  1  0.39401700  0.51359700  0.18325400  1
+  O  O14  1  0.46270400  0.80778800  0.60321600  1
+  O  O15  1  0.51359700  0.18317500  0.39401200  1
+  O  O16  1  0.60334100  0.46265400  0.80768700  1
+  O  O17  1  0.68569200  0.92827200  0.09818300  1
+  O  O18  1  0.80768200  0.60330600  0.46266400  1
+  O  O19  1  0.92823700  0.09809800  0.68566200  1
+  O  O20  1  0.93453500  0.31326800  0.07504500  1

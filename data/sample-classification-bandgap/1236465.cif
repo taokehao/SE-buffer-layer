@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cs4Li(Pb2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30270632
+_cell_length_b   8.04955876
+_cell_length_c   8.30270632
+_cell_angle_alpha   114.20645362
+_cell_angle_beta   111.94532714
+_cell_angle_gamma   103.64751888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4Li(Pb2O3)2
+_chemical_formula_sum   'Cs4 Li1 Pb4 O6'
+_cell_volume   416.81065487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.04130900  0.02921000  0.99402700  1
+  Cs  Cs1  1  0.54174900  0.01293100  0.53449400  1
+  Cs  Cs2  1  0.46481700  0.47079000  0.01210000  1
+  Cs  Cs3  1  0.02156400  0.48706900  0.52881800  1
+  Li  Li4  1  0.70933000  0.75000000  0.95933000  1
+  Pb  Pb5  1  0.55082800  0.52454500  0.52020900  1
+  Pb  Pb6  1  0.96791600  0.96635900  0.49676500  1
+  Pb  Pb7  1  0.49566400  0.97545500  0.02628200  1
+  Pb  Pb8  1  0.03040600  0.53364100  0.00155700  1
+  O  O9  1  0.77486000  0.55775200  0.80898600  1
+  O  O10  1  0.75123400  0.94224800  0.21710800  1
+  O  O11  1  0.50290800  0.75000000  0.75290800  1
+  O  O12  1  0.00243500  0.25000000  0.75243500  1
+  O  O13  1  0.75838700  0.74277100  0.50436400  1
+  O  O14  1  0.26159300  0.75722900  0.01561600  1

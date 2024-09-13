@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K4Li(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09465400
+_cell_length_b   6.56033813
+_cell_length_c   8.06030836
+_cell_angle_alpha   77.24310855
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.67837008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Li(CO3)2
+_chemical_formula_sum   'K4 Li1 C2 O6'
+_cell_volume   276.38242074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.72083500  0.44166900  0.82916600  1
+  K  K1  1  0.27916500  0.55833000  0.17083400  1
+  K  K2  1  0.00000000  0.00000000  0.50000000  1
+  K  K3  1  0.00000000  0.00000000  0.00000000  1
+  Li  Li4  1  0.50000000  0.00000000  0.50000000  1
+  C  C5  1  0.32651800  0.65303700  0.73048700  1
+  C  C6  1  0.67348200  0.34696300  0.26951300  1
+  O  O7  1  0.56122900  0.75548100  0.66663500  1
+  O  O8  1  0.43877100  0.24451900  0.33336500  1
+  O  O9  1  0.77016600  0.54033300  0.14805700  1
+  O  O10  1  0.19425200  0.75548100  0.66663500  1
+  O  O11  1  0.22983400  0.45966700  0.85194300  1
+  O  O12  1  0.80574800  0.24451900  0.33336500  1

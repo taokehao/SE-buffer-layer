@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMg14Cr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35573827
+_cell_length_b   6.35573776
+_cell_length_c   10.06497813
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg14Cr
+_chemical_formula_sum   'Li1 Mg14 Cr1'
+_cell_volume   352.10762487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.16666700  0.33333300  0.12500000  1
+  Mg  Mg1  1  0.16764842  0.83382371  0.12500000  1
+  Mg  Mg2  1  0.16788774  0.83394337  0.62500000  1
+  Mg  Mg3  1  0.66617629  0.33235158  0.12500000  1
+  Mg  Mg4  1  0.66605663  0.33211226  0.62500000  1
+  Mg  Mg5  1  0.66617629  0.83382371  0.12500000  1
+  Mg  Mg6  1  0.66605663  0.83394337  0.62500000  1
+  Mg  Mg7  1  0.33099939  0.16900061  0.37653496  1
+  Mg  Mg8  1  0.33099939  0.16900061  0.87346504  1
+  Mg  Mg9  1  0.33099939  0.66199978  0.37653496  1
+  Mg  Mg10  1  0.33099939  0.66199978  0.87346504  1
+  Mg  Mg11  1  0.83800022  0.16900061  0.37653496  1
+  Mg  Mg12  1  0.83800022  0.16900061  0.87346504  1
+  Mg  Mg13  1  0.83333300  0.66666700  0.37399373  1
+  Mg  Mg14  1  0.83333300  0.66666700  0.87600627  1
+  Cr  Cr15  1  0.16666700  0.33333300  0.62500000  1

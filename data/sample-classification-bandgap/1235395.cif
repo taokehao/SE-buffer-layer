@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiPr2Zn2(PO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.33706867
+_cell_length_b   11.33710993
+_cell_length_c   11.94975825
+_cell_angle_alpha   19.70589437
+_cell_angle_beta   19.71071140
+_cell_angle_gamma   20.47691266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2Zn2(PO)2
+_chemical_formula_sum   'Li1 Pr2 Zn2 P2 O2'
+_cell_volume   156.47539460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.92245700  0.92274000  0.48748200  1
+  Pr  Pr1  1  0.61553500  0.61676900  0.60533100  1
+  Pr  Pr2  1  0.45181100  0.45259900  0.20552300  1
+  Zn  Zn3  1  0.12225900  0.12289600  0.33889400  1
+  Zn  Zn4  1  0.64413200  0.64395500  0.14114300  1
+  P  P5  1  0.23867600  0.23904300  0.82704400  1
+  P  P6  1  0.83155400  0.83258100  0.98360100  1
+  O  O7  1  0.75013000  0.75086800  0.55334700  1
+  O  O8  1  0.31719500  0.31854900  0.25763600  1

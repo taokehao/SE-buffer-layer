@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_LiDy2(OF)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51748493
+_cell_length_b   3.51748493
+_cell_length_c   8.86767392
+_cell_angle_alpha   78.56057142
+_cell_angle_beta   78.56057142
+_cell_angle_gamma   60.00002009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiDy2(OF)2
+_chemical_formula_sum   'Li1 Dy2 O2 F2'
+_cell_volume   92.49251578
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Dy  Dy1  1  0.75810900  0.75810900  0.72567500  1
+  Dy  Dy2  1  0.24189100  0.24189100  0.27432500  1
+  O  O3  1  0.61785600  0.61785600  0.14643300  1
+  O  O4  1  0.38214400  0.38214400  0.85356700  1
+  F  F5  1  0.86454200  0.86454200  0.40637300  1
+  F  F6  1  0.13545800  0.13545800  0.59362700  1

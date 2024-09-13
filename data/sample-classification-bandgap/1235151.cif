@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BaLiV2Ni3(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15641170
+_cell_length_b   6.21853938
+_cell_length_c   7.81624183
+_cell_angle_alpha   68.48732867
+_cell_angle_beta   67.92027509
+_cell_angle_gamma   57.95184664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiV2Ni3(HO5)2
+_chemical_formula_sum   'Ba1 Li1 V2 Ni3 H2 O10'
+_cell_volume   229.64232067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.94473400  0.51502900  0.48283900  1
+  Li  Li1  1  0.60158700  0.13301000  0.10974400  1
+  V  V2  1  0.59718900  0.09200000  0.73904500  1
+  V  V3  1  0.37898200  0.88010800  0.28514100  1
+  Ni  Ni4  1  0.04158200  0.01258600  0.97518900  1
+  Ni  Ni5  1  0.00525000  0.50491900  0.00799400  1
+  Ni  Ni6  1  0.50687700  0.56030800  0.97600600  1
+  H  H7  1  0.26744400  0.73718900  0.72075800  1
+  H  H8  1  0.75777000  0.25873400  0.26122500  1
+  O  O9  1  0.24920100  0.22594900  0.81020100  1
+  O  O10  1  0.71716800  0.22455700  0.83282500  1
+  O  O11  1  0.74240100  0.77763700  0.17492700  1
+  O  O12  1  0.25106900  0.76636800  0.17687600  1
+  O  O13  1  0.72953700  0.74803300  0.81170200  1
+  O  O14  1  0.24627900  0.24308200  0.20204700  1
+  O  O15  1  0.38825200  0.77343000  0.52148100  1
+  O  O16  1  0.70222500  0.16231700  0.50052300  1
+  O  O17  1  0.20856600  0.71022500  0.86603600  1
+  O  O18  1  0.78888600  0.29951900  0.12043900  1

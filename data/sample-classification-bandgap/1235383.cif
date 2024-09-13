@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiLuZnFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29657151
+_cell_length_b   3.29657178
+_cell_length_c   10.56421010
+_cell_angle_alpha   82.19864937
+_cell_angle_beta   97.80135291
+_cell_angle_gamma   119.90122686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLuZnFeO4
+_chemical_formula_sum   'Li1 Lu1 Zn1 Fe1 O4'
+_cell_volume   98.29182972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.40847700  0.59152300  0.22286500  1
+  Lu  Lu1  1  0.99844600  0.00155400  0.98042800  1
+  Zn  Zn2  1  0.80449500  0.19550500  0.41994800  1
+  Fe  Fe3  1  0.21482700  0.78517300  0.68081800  1
+  O  O4  1  0.86827500  0.13172500  0.60939600  1
+  O  O5  1  0.11667500  0.88332500  0.34552600  1
+  O  O6  1  0.69751400  0.30248600  0.08942500  1
+  O  O7  1  0.30200600  0.69799400  0.87302400  1

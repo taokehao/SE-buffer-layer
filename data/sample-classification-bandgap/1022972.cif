@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiMg6Mn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99144589
+_cell_length_b   6.26216037
+_cell_length_c   10.70139494
+_cell_angle_alpha   89.99997811
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMg6Mn
+_chemical_formula_sum   'Li2 Mg12 Mn2'
+_cell_volume   334.49601263
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000010  0.16738635  1
+  Li  Li1  1  0.50000000  0.00000010  0.66738635  1
+  Mg  Mg2  1  -0.00000000  0.74470681  0.08655748  1
+  Mg  Mg3  1  0.00000000  0.25529309  0.08655739  1
+  Mg  Mg4  1  0.00000000  0.99999999  0.33600368  1
+  Mg  Mg5  1  0.50000000  0.25834609  0.41067642  1
+  Mg  Mg6  1  0.50000000  0.74165404  0.41067631  1
+  Mg  Mg7  1  0.50000000  0.00000011  0.16459242  1
+  Mg  Mg8  1  -0.00000000  0.24470681  0.58655748  1
+  Mg  Mg9  1  0.00000000  0.75529309  0.58655739  1
+  Mg  Mg10  1  0.00000000  0.49999999  0.83600368  1
+  Mg  Mg11  1  0.50000000  0.75834609  0.91067642  1
+  Mg  Mg12  1  0.50000000  0.24165404  0.91067631  1
+  Mg  Mg13  1  0.50000000  0.50000011  0.66459242  1
+  Mn  Mn14  1  0.00000000  0.49999977  0.33754796  1
+  Mn  Mn15  1  0.00000000  0.99999977  0.83754796  1

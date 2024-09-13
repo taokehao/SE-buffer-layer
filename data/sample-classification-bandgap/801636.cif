@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2NiP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11491500
+_cell_length_b   7.04579467
+_cell_length_c   8.67596031
+_cell_angle_alpha   113.57369674
+_cell_angle_beta   90.43398402
+_cell_angle_gamma   110.51826478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2NiP2O7
+_chemical_formula_sum   'Li4 Ni2 P4 O14'
+_cell_volume   264.39039595
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.06528500  0.29321400  0.00852600  1
+  Li  Li1  1  0.32241100  0.11154700  0.74905500  1
+  Li  Li2  1  0.67758900  0.88845300  0.25094500  1
+  Li  Li3  1  0.93471500  0.70678600  0.99147400  1
+  Ni  Ni4  1  0.14501600  0.48306800  0.33414000  1
+  Ni  Ni5  1  0.85498400  0.51693200  0.66586000  1
+  P  P6  1  0.25314300  0.85499100  0.39554700  1
+  P  P7  1  0.48046900  0.55239500  0.14090600  1
+  P  P8  1  0.51953100  0.44760500  0.85909400  1
+  P  P9  1  0.74685700  0.14500900  0.60445300  1
+  O  O10  1  0.99787300  0.84672900  0.43369200  1
+  O  O11  1  0.43847800  0.58516100  0.55143800  1
+  O  O12  1  0.15501000  0.88037000  0.25898700  1
+  O  O13  1  0.19942700  0.37858000  0.85273300  1
+  O  O14  1  0.30540400  0.63514300  0.98801600  1
+  O  O15  1  0.45652600  0.16815000  0.31499900  1
+  O  O16  1  0.64915000  0.30252200  0.84697800  1
+  O  O17  1  0.35085000  0.69747800  0.15302200  1
+  O  O18  1  0.54347400  0.83185000  0.68500100  1
+  O  O19  1  0.69459600  0.36485700  0.01198400  1
+  O  O20  1  0.80057300  0.62142000  0.14726700  1
+  O  O21  1  0.84499000  0.11963000  0.74101300  1
+  O  O22  1  0.56152200  0.41483900  0.44856200  1
+  O  O23  1  0.00212700  0.15327100  0.56630800  1

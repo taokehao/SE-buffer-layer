@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2LiPu(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01308846
+_cell_length_b   7.25294265
+_cell_length_c   7.32109610
+_cell_angle_alpha   62.45293234
+_cell_angle_beta   93.75576390
+_cell_angle_gamma   90.23196776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiPu(Cl2O)2
+_chemical_formula_sum   'Rb2 Li1 Pu1 Cl4 O2'
+_cell_volume   282.36188091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.77128400  0.89389500  0.77195700  1
+  Rb  Rb1  1  0.23736500  0.17567800  0.10587300  1
+  Li  Li2  1  0.98105300  0.57314500  0.39007600  1
+  Pu  Pu3  1  0.48541000  0.49791500  0.49100500  1
+  Cl  Cl4  1  0.72646800  0.86051100  0.32070700  1
+  Cl  Cl5  1  0.70972300  0.38951000  0.86451100  1
+  Cl  Cl6  1  0.26291300  0.13390000  0.62029700  1
+  Cl  Cl7  1  0.21970800  0.62911600  0.12039500  1
+  O  O8  1  0.72253300  0.38677100  0.42529500  1
+  O  O9  1  0.24812600  0.60770800  0.55655200  1

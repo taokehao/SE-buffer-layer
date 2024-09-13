@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba4Li(RhO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90738099
+_cell_length_b   5.90972655
+_cell_length_c   9.98735179
+_cell_angle_alpha   87.70177761
+_cell_angle_beta   92.32072076
+_cell_angle_gamma   121.29546682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Li(RhO3)4
+_chemical_formula_sum   'Ba4 Li1 Rh4 O12'
+_cell_volume   297.61860896
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66891300  0.33177800  0.73615500  1
+  Ba  Ba1  1  0.28273600  0.71740200  0.28619200  1
+  Ba  Ba2  1  0.97289900  0.02805300  0.51737300  1
+  Ba  Ba3  1  0.02813700  0.97086500  0.98161100  1
+  Li  Li4  1  0.46779000  0.53013200  0.11752400  1
+  Rh  Rh5  1  0.35724900  0.64201300  0.88971500  1
+  Rh  Rh6  1  0.64308500  0.35732200  0.38450700  1
+  Rh  Rh7  1  0.70305000  0.29580000  0.11278300  1
+  Rh  Rh8  1  0.31733600  0.68308000  0.61561200  1
+  O  O9  1  0.18097400  0.36558400  0.74139900  1
+  O  O10  1  0.80983200  0.19118200  0.29042000  1
+  O  O11  1  0.37395700  0.19533400  0.22406600  1
+  O  O12  1  0.63455300  0.81758400  0.74198400  1
+  O  O13  1  0.19272400  0.80849600  0.77183400  1
+  O  O14  1  0.80374900  0.62525700  0.22382000  1
+  O  O15  1  0.43997900  0.04149900  0.51299200  1
+  O  O16  1  0.55619800  0.43786300  0.95896500  1
+  O  O17  1  0.55592900  0.91566300  0.03954200  1
+  O  O18  1  0.45852500  0.53829300  0.47682800  1
+  O  O19  1  0.95935500  0.56327800  0.51258200  1
+  O  O20  1  0.08261600  0.44352100  0.03909700  1

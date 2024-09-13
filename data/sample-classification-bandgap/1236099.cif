@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiAl4Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23640505
+_cell_length_b   5.69529958
+_cell_length_c   6.23640625
+_cell_angle_alpha   62.83097453
+_cell_angle_beta   55.25511089
+_cell_angle_gamma   62.83096464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl4Zn2O8
+_chemical_formula_sum   'Li1 Al4 Zn2 O8'
+_cell_volume   155.97633251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66276900  0.08723100  0.66276900  1
+  Al  Al1  1  0.12020800  0.12979200  0.12020800  1
+  Al  Al2  1  0.44850500  0.55608400  0.44850500  1
+  Al  Al3  1  0.44850500  0.04690500  0.44850500  1
+  Al  Al4  1  0.90525100  0.84474900  0.90525100  1
+  Zn  Zn5  1  0.96083900  0.52132300  0.49651400  1
+  Zn  Zn6  1  0.49651400  0.52132300  0.96083900  1
+  O  O7  1  0.25196600  0.24165400  0.25196600  1
+  O  O8  1  0.29686700  0.23661300  0.72990700  1
+  O  O9  1  0.25196600  0.75441500  0.25196600  1
+  O  O10  1  0.72990700  0.23661300  0.29686700  1
+  O  O11  1  0.27846000  0.75705900  0.70742100  1
+  O  O12  1  0.78811900  0.20694800  0.78811900  1
+  O  O13  1  0.70742100  0.75705900  0.27846000  1
+  O  O14  1  0.78811900  0.71681300  0.78811900  1

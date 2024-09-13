@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiPr2Ta2Cl2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03252214
+_cell_length_b   6.87645662
+_cell_length_c   8.25719745
+_cell_angle_alpha   110.51823096
+_cell_angle_beta   104.13014064
+_cell_angle_gamma   90.00120668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2Ta2Cl2O7
+_chemical_formula_sum   'Li1 Pr2 Ta2 Cl2 O7'
+_cell_volume   207.02845364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87031400  0.54966900  0.74140600  1
+  Pr  Pr1  1  0.30765900  0.88179800  0.61599400  1
+  Pr  Pr2  1  0.67443600  0.16072900  0.34931100  1
+  Ta  Ta3  1  0.95773500  0.21599100  0.91613900  1
+  Ta  Ta4  1  0.03760000  0.82685400  0.07571000  1
+  Cl  Cl5  1  0.68492000  0.59572100  0.37055900  1
+  Cl  Cl6  1  0.30670700  0.44207600  0.61411100  1
+  O  O7  1  0.44881400  0.18920500  0.89824500  1
+  O  O8  1  0.54412000  0.84032300  0.08868900  1
+  O  O9  1  0.91640500  0.85186000  0.83351000  1
+  O  O10  1  0.98584800  0.51546700  0.97241300  1
+  O  O11  1  0.82110200  0.09854200  0.64280200  1
+  O  O12  1  0.07109900  0.16554700  0.14268200  1
+  O  O13  1  0.17324100  0.95325400  0.34676200  1

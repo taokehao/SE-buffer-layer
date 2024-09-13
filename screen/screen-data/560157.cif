@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_LiMgVO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71390600
+_cell_length_b   8.71432800
+_cell_length_c   6.32334000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMgVO4
+_chemical_formula_sum   'Li4 Mg4 V4 O16'
+_cell_volume   314.85712673
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Li+  1.0
+  Mg2+  2.0
+  V5+  5.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li+  Li  1  0.50000000  0.66270200  0.75000000  1
+  Li+  Li  1  0.50000000  0.33729800  0.25000000  1
+  Li+  Li  1  0.00000000  0.16270200  0.75000000  1
+  Li+  Li  1  0.00000000  0.83729800  0.25000000  1
+  Mg2+  Mg  1  0.50000000  0.00000000  0.50000000  1
+  Mg2+  Mg  1  0.50000000  0.00000000  0.00000000  1
+  Mg2+  Mg  1  0.00000000  0.50000000  0.50000000  1
+  Mg2+  Mg  1  0.00000000  0.50000000  0.00000000  1
+  V5+  V  1  0.50000000  0.35418700  0.75000000  1
+  V5+  V  1  0.50000000  0.64581300  0.25000000  1
+  V5+  V  1  0.00000000  0.85418700  0.75000000  1
+  V5+  V  1  0.00000000  0.14581300  0.25000000  1
+  O2-  O  1  0.50000000  0.23993500  0.97054600  1
+  O2-  O  1  0.75424150  0.01984750  0.25000000  1
+  O2-  O  1  0.24575850  0.98015250  0.75000000  1
+  O2-  O  1  0.50000000  0.76006500  0.47054600  1
+  O2-  O  1  0.50000000  0.76006500  0.02945400  1
+  O2-  O  1  0.75424150  0.98015250  0.75000000  1
+  O2-  O  1  0.24575850  0.01984750  0.25000000  1
+  O2-  O  1  0.50000000  0.23993500  0.52945400  1
+  O2-  O  1  0.00000000  0.73993500  0.97054600  1
+  O2-  O  1  0.25424150  0.51984750  0.25000000  1
+  O2-  O  1  0.74575850  0.48015250  0.75000000  1
+  O2-  O  1  0.00000000  0.26006500  0.47054600  1
+  O2-  O  1  0.00000000  0.26006500  0.02945400  1
+  O2-  O  1  0.25424150  0.48015250  0.75000000  1
+  O2-  O  1  0.74575850  0.51984750  0.25000000  1
+  O2-  O  1  0.00000000  0.73993500  0.52945400  1

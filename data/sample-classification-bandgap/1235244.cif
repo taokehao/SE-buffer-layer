@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiV2Zn2(SiO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63057647
+_cell_length_b   7.46811266
+_cell_length_c   8.40140225
+_cell_angle_alpha   91.42597025
+_cell_angle_beta   37.53308461
+_cell_angle_gamma   107.78567130
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiV2Zn2(SiO5)2
+_chemical_formula_sum   'Li1 V2 Zn2 Si2 O10'
+_cell_volume   190.00949342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49616100  0.99852000  0.00463600  1
+  V  V1  1  0.50127100  0.49907200  0.50046500  1
+  V  V2  1  0.50117000  0.99928200  0.50020700  1
+  Zn  Zn3  1  0.44952100  0.29086700  0.22454500  1
+  Zn  Zn4  1  0.55328500  0.70788100  0.77598100  1
+  Si  Si5  1  0.53484400  0.25648500  0.81019700  1
+  Si  Si6  1  0.46836300  0.74154600  0.19003900  1
+  O  O7  1  0.76946400  0.14688800  0.57466800  1
+  O  O8  1  0.48327200  0.43228900  0.74845400  1
+  O  O9  1  0.23388700  0.85182000  0.42485800  1
+  O  O10  1  0.52043800  0.56616000  0.25190600  1
+  O  O11  1  0.19047600  0.67256000  0.16226900  1
+  O  O12  1  0.92355400  0.92826200  0.88055300  1
+  O  O13  1  0.81193500  0.32512400  0.83856000  1
+  O  O14  1  0.07874500  0.06983000  0.11969200  1
+  O  O15  1  0.45544800  0.74588200  0.60483000  1
+  O  O16  1  0.54755200  0.25244500  0.39541500  1

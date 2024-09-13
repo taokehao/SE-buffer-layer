@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2RhO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02939631
+_cell_length_b   5.02939631
+_cell_length_c   5.08355353
+_cell_angle_alpha   80.13615618
+_cell_angle_beta   80.13615618
+_cell_angle_gamma   119.18899049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2RhO3
+_chemical_formula_sum   'Li4 Rh2 O6'
+_cell_volume   105.63300172
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.00000000  1
+  Li  Li1  1  0.83884425  0.16115575  0.00000000  1
+  Li  Li2  1  0.16115575  0.83884425  0.00000000  1
+  Li  Li3  1  0.00000000  0.00000000  0.50000000  1
+  Rh  Rh4  1  0.66387019  0.33612981  0.50000000  1
+  Rh  Rh5  1  0.33612981  0.66387019  0.50000000  1
+  O  O6  1  0.57667222  0.92361470  0.73256166  1
+  O  O7  1  0.42332778  0.07638530  0.26743834  1
+  O  O8  1  0.73872366  0.73872366  0.25451636  1
+  O  O9  1  0.92361470  0.57667222  0.73256166  1
+  O  O10  1  0.07638530  0.42332778  0.26743834  1
+  O  O11  1  0.26127634  0.26127634  0.74548364  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sr2LiFeO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76757200
+_cell_length_b   3.76757000
+_cell_length_c   8.48702484
+_cell_angle_alpha   77.17579318
+_cell_angle_beta   77.17577933
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiFeO3F
+_chemical_formula_sum   'Sr2 Li1 Fe1 O3 F1'
+_cell_volume   114.38083950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.35388900  0.35388900  0.29222300  1
+  Sr  Sr1  1  0.67198100  0.67198100  0.65603800  1
+  Li  Li2  1  0.50206600  0.50206600  0.99586700  1
+  Fe  Fe3  1  0.02170900  0.02170900  0.95658200  1
+  O  O4  1  0.97474600  0.47474600  0.05050900  1
+  O  O5  1  0.47474600  0.97474600  0.05050900  1
+  O  O6  1  0.18273900  0.18273900  0.63452200  1
+  F  F7  1  0.81812500  0.81812500  0.36374900  1

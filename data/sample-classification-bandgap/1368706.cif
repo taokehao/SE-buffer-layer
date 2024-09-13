@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_LiFeSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10227500
+_cell_length_b   7.68264122
+_cell_length_c   7.72669131
+_cell_angle_alpha   118.04204740
+_cell_angle_beta   108.96343697
+_cell_angle_gamma   97.52624638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeSi3O8
+_chemical_formula_sum   'Li2 Fe2 Si6 O16'
+_cell_volume   330.95260216
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12507700  0.98718000  0.26605600  1
+  Li  Li1  1  0.87492300  0.01282000  0.73394400  1
+  Fe  Fe2  1  0.64201000  0.76118500  0.45748900  1
+  Fe  Fe3  1  0.35799000  0.23881500  0.54251100  1
+  Si  Si4  1  0.70525800  0.21143700  0.22758400  1
+  Si  Si5  1  0.79521600  0.29394500  0.85067200  1
+  Si  Si6  1  0.76144000  0.64382800  0.15119200  1
+  Si  Si7  1  0.23856000  0.35617200  0.84880800  1
+  Si  Si8  1  0.20478400  0.70605500  0.14932800  1
+  Si  Si9  1  0.29474200  0.78856300  0.77241600  1
+  O  O10  1  0.80819400  0.16704300  0.10020100  1
+  O  O11  1  0.74095300  0.70322300  0.30935500  1
+  O  O12  1  0.44964000  0.27253600  0.08160000  1
+  O  O13  1  0.33981300  0.81571900  0.28977900  1
+  O  O14  1  0.95499000  0.75725000  0.08860300  1
+  O  O15  1  0.75158700  0.00403700  0.46136200  1
+  O  O16  1  0.81383900  0.39582800  0.26912600  1
+  O  O17  1  0.71577500  0.53161300  0.73538400  1
+  O  O18  1  0.28422500  0.46838700  0.26461600  1
+  O  O19  1  0.18616100  0.60417200  0.73087400  1
+  O  O20  1  0.24841300  0.99596300  0.53863800  1
+  O  O21  1  0.04501000  0.24275000  0.91139700  1
+  O  O22  1  0.66018700  0.18428100  0.71022100  1
+  O  O23  1  0.55036000  0.72746400  0.91840000  1
+  O  O24  1  0.25904700  0.29677700  0.69064500  1
+  O  O25  1  0.19180600  0.83295700  0.89979900  1

@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiAg4(PO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.51877839
+_cell_length_b   4.25501241
+_cell_length_c   5.78315074
+_cell_angle_alpha   87.63866060
+_cell_angle_beta   104.24596968
+_cell_angle_gamma   90.00170177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg4(PO3)4
+_chemical_formula_sum   'Li1 Ag4 P4 O12'
+_cell_volume   322.14040990
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.30163000  0.28322200  0.77956100  1
+  Ag  Ag1  1  0.03218200  0.18006500  0.73566500  1
+  Ag  Ag2  1  0.51116400  0.71789200  0.79727900  1
+  Ag  Ag3  1  0.53797900  0.20830800  0.13699500  1
+  Ag  Ag4  1  0.94640400  0.87458600  0.27355400  1
+  P  P5  1  0.16164600  0.32253700  0.34393900  1
+  P  P6  1  0.29893600  0.82084300  0.25422700  1
+  P  P7  1  0.69513400  0.17301500  0.71577600  1
+  P  P8  1  0.83820500  0.67877700  0.67107300  1
+  O  O9  1  0.06714200  0.19205800  0.18379200  1
+  O  O10  1  0.15878900  0.43764600  0.58736400  1
+  O  O11  1  0.20047500  0.58688300  0.18226600  1
+  O  O12  1  0.25567900  0.07143300  0.41523400  1
+  O  O13  1  0.30588600  0.97503800  0.02203200  1
+  O  O14  1  0.38585400  0.65167800  0.42154500  1
+  O  O15  1  0.60918100  0.33582800  0.53553900  1
+  O  O16  1  0.67634800  0.00584800  0.93459600  1
+  O  O17  1  0.74874800  0.93279500  0.56785000  1
+  O  O18  1  0.78802700  0.41753000  0.81301800  1
+  O  O19  1  0.86708300  0.53547400  0.46084800  1
+  O  O20  1  0.92461700  0.82076500  0.85534600  1

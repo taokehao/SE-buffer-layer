@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiTb4Al2(FeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45027533
+_cell_length_b   5.66004639
+_cell_length_c   8.43316201
+_cell_angle_alpha   97.44752986
+_cell_angle_beta   82.44052979
+_cell_angle_gamma   95.77399334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb4Al2(FeO6)2
+_chemical_formula_sum   'Li1 Tb4 Al2 Fe2 O12'
+_cell_volume   254.79090856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.78510800  0.48764300  0.33725400  1
+  Tb  Tb1  1  0.42869600  0.61108500  0.16953200  1
+  Tb  Tb2  1  0.95092200  0.06426500  0.21848000  1
+  Tb  Tb3  1  0.49653900  0.44139900  0.73918600  1
+  Tb  Tb4  1  0.04240700  0.92460100  0.77862900  1
+  Al  Al5  1  0.07055700  0.41262300  0.53469500  1
+  Al  Al6  1  0.50154500  0.03240100  0.99009900  1
+  Fe  Fe7  1  0.97660900  0.49431400  0.96366400  1
+  Fe  Fe8  1  0.53270400  0.96561900  0.53089400  1
+  O  O9  1  0.33526800  0.98232300  0.19607300  1
+  O  O10  1  0.12138900  0.44559000  0.31983400  1
+  O  O11  1  0.63621400  0.03749300  0.76107900  1
+  O  O12  1  0.89867500  0.53270600  0.72852100  1
+  O  O13  1  0.77207700  0.84173900  0.00998100  1
+  O  O14  1  0.75490400  0.25324900  0.47954900  1
+  O  O15  1  0.23530600  0.17479200  0.59124600  1
+  O  O16  1  0.29544100  0.71305600  0.92834900  1
+  O  O17  1  0.24623000  0.22491300  0.94999800  1
+  O  O18  1  0.31308100  0.67638600  0.58848100  1
+  O  O19  1  0.70088200  0.78549600  0.34717100  1
+  O  O20  1  0.70544800  0.31497400  0.08728700  1

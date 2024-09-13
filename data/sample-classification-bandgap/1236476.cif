@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSrLiNdTlCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89115000
+_cell_length_b   3.90723663
+_cell_length_c   14.92467460
+_cell_angle_alpha   89.56437591
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSrLiNdTlCu2O7
+_chemical_formula_sum   'Ba1 Sr1 Li1 Nd1 Tl1 Cu2 O7'
+_cell_volume   226.90287830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50529700  0.78696400  1
+  Sr  Sr1  1  0.50000000  0.53588600  0.12534600  1
+  Li  Li2  1  0.50000000  0.51858600  0.36112800  1
+  Nd  Nd3  1  0.50000000  0.51278100  0.53733900  1
+  Tl  Tl4  1  0.00000000  0.06272600  0.96982500  1
+  Cu  Cu5  1  0.00000000  0.00967700  0.64073900  1
+  Cu  Cu6  1  0.00000000  0.01655900  0.40938400  1
+  O  O7  1  0.50000000  0.01049600  0.63174100  1
+  O  O8  1  0.00000000  0.50991600  0.63245100  1
+  O  O9  1  0.50000000  0.01646300  0.41602000  1
+  O  O10  1  0.00000000  0.51626300  0.41633900  1
+  O  O11  1  0.00000000  0.99098500  0.82534100  1
+  O  O12  1  0.00000000  0.97634200  0.12267800  1
+  O  O13  1  0.50000000  0.41569100  0.97366400  1

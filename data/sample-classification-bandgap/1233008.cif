@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiTa2Te4Br10O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94518160
+_cell_length_b   8.85216927
+_cell_length_c   10.21205630
+_cell_angle_alpha   88.01816435
+_cell_angle_beta   94.38559353
+_cell_angle_gamma   76.30511079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTa2Te4Br10O
+_chemical_formula_sum   'Li1 Ta2 Te4 Br10 O1'
+_cell_volume   694.74302005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.60037700  0.28948900  0.63859800  1
+  Ta  Ta1  1  0.47491300  0.37482600  0.35142100  1
+  Ta  Ta2  1  0.51265100  0.64802300  0.63295100  1
+  Te  Te3  1  0.92287600  0.80232000  0.01150300  1
+  Te  Te4  1  0.10260100  0.18054800  0.00247800  1
+  Te  Te5  1  0.18937600  0.90082700  0.14774000  1
+  Te  Te6  1  0.81729100  0.09129300  0.88347900  1
+  Br  Br7  1  0.45826200  0.17225000  0.17246300  1
+  Br  Br8  1  0.60398400  0.53183800  0.19939600  1
+  Br  Br9  1  0.16946400  0.53203200  0.27545800  1
+  Br  Br10  1  0.77379900  0.20119600  0.42993400  1
+  Br  Br11  1  0.66775500  0.79027500  0.49118400  1
+  Br  Br12  1  0.34016700  0.20881000  0.50659600  1
+  Br  Br13  1  0.21622200  0.80334700  0.56595800  1
+  Br  Br14  1  0.81865800  0.45845000  0.71828900  1
+  Br  Br15  1  0.39554800  0.46968400  0.79155600  1
+  Br  Br16  1  0.54551000  0.82430000  0.82556200  1
+  O  O17  1  0.49888200  0.49906100  0.49917900  1

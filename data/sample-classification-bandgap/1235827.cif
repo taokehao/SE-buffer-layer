@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2LiS2(O2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08057644
+_cell_length_b   5.59236300
+_cell_length_c   7.91847267
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.07311807
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2LiS2(O2F)2
+_chemical_formula_sum   'K2 Li1 S2 O4 F2'
+_cell_volume   212.63198837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.17047700  0.25000000  0.23545600  1
+  K  K1  1  0.76320700  0.75000000  0.65542000  1
+  Li  Li2  1  0.35639900  0.75000000  0.90799300  1
+  S  S3  1  0.42563500  0.25000000  0.84695200  1
+  S  S4  1  0.72001000  0.75000000  0.23017800  1
+  O  O5  1  0.34311300  0.47066100  0.73711300  1
+  O  O6  1  0.66704100  0.97631700  0.32177500  1
+  O  O7  1  0.66704100  0.52368300  0.32177500  1
+  O  O8  1  0.34311300  0.02933900  0.73711300  1
+  F  F9  1  0.06886900  0.75000000  0.98230100  1
+  F  F10  1  0.78065200  0.25000000  0.87577500  1

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Li2SiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12897973
+_cell_length_b   8.12897973
+_cell_length_c   4.47298446
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2SiF6
+_chemical_formula_sum   'Li6 Si3 F18'
+_cell_volume   255.97650370
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Li+  1.0
+  Si4+  4.0
+  F-  -1.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li+  Li  1  0.29735916  0.00000000  0.50000000  1
+  Li+  Li  1  0.70264084  0.70264084  0.50000000  1
+  Li+  Li  1  0.00000000  0.29735916  0.50000000  1
+  Li+  Li  1  0.63241697  0.00000000  0.00000000  1
+  Li+  Li  1  0.36758303  0.36758303  0.00000000  1
+  Li+  Li  1  0.00000000  0.63241697  0.00000000  1
+  Si4+  Si  1  0.00000000  0.00000000  0.00000000  1
+  Si4+  Si  1  0.66666667  0.33333333  0.51185853  1
+  Si4+  Si  1  0.33333333  0.66666667  0.48814147  1
+  F-  F  1  0.90526307  0.80186998  0.78502004  1
+  F-  F  1  0.89660691  0.09473693  0.78502004  1
+  F-  F  1  0.19813002  0.10339309  0.78502004  1
+  F-  F  1  0.09473693  0.89660691  0.21497996  1
+  F-  F  1  0.80186998  0.90526307  0.21497996  1
+  F-  F  1  0.10339309  0.19813002  0.21497996  1
+  F-  F  1  0.58209589  0.44624347  0.72820620  1
+  F-  F  1  0.86414758  0.41790411  0.72820620  1
+  F-  F  1  0.55375653  0.13585242  0.72820620  1
+  F-  F  1  0.41790411  0.86414758  0.27179380  1
+  F-  F  1  0.44624347  0.58209589  0.27179380  1
+  F-  F  1  0.13585242  0.55375653  0.27179380  1
+  F-  F  1  0.22492050  0.75648904  0.70409677  1
+  F-  F  1  0.53156854  0.77507950  0.70409677  1
+  F-  F  1  0.24351096  0.46843146  0.70409677  1
+  F-  F  1  0.77507950  0.53156854  0.29590323  1
+  F-  F  1  0.75648904  0.22492050  0.29590323  1
+  F-  F  1  0.46843146  0.24351096  0.29590323  1

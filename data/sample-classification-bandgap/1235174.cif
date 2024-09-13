@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LiEu2Cr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27140265
+_cell_length_b   6.26848897
+_cell_length_c   6.24706683
+_cell_angle_alpha   106.05548947
+_cell_angle_beta   106.14085364
+_cell_angle_gamma   117.77758675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEu2Cr2O8
+_chemical_formula_sum   'Li1 Eu2 Cr2 O8'
+_cell_volume   183.34747738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.14882400  0.85568900  0.75017200  1
+  Eu  Eu1  1  0.12758700  0.87279000  0.24940900  1
+  Eu  Eu2  1  0.85950900  0.14092900  0.75020700  1
+  Cr  Cr3  1  0.38537300  0.61424900  0.74961600  1
+  Cr  Cr4  1  0.62388600  0.37735100  0.25041800  1
+  O  O5  1  0.81124600  0.72617900  0.45762200  1
+  O  O6  1  0.35582700  0.79347200  0.58198300  1
+  O  O7  1  0.72985600  0.80294000  0.93641200  1
+  O  O8  1  0.78774100  0.37385300  0.07191200  1
+  O  O9  1  0.62640000  0.21207000  0.42818400  1
+  O  O10  1  0.19742000  0.26981200  0.56381500  1
+  O  O11  1  0.20657100  0.64487400  0.91683800  1
+  O  O12  1  0.27517700  0.19079000  0.04341100  1

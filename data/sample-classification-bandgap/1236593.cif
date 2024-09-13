@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiTaNb(AgO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09663467
+_cell_length_b   4.09659306
+_cell_length_c   8.07562999
+_cell_angle_alpha   90.16666458
+_cell_angle_beta   89.83109051
+_cell_angle_gamma   90.29954024
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTaNb(AgO3)2
+_chemical_formula_sum   'Li1 Ta1 Nb1 Ag2 O6'
+_cell_volume   135.52419397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.91496800  0.08502400  0.23963100  1
+  Ta  Ta1  1  0.51733400  0.48266700  0.73733100  1
+  Nb  Nb2  1  0.43194700  0.56805400  0.23694100  1
+  Ag  Ag3  1  0.02762000  0.97237600  0.93719200  1
+  Ag  Ag4  1  0.03177500  0.96827400  0.53993100  1
+  O  O5  1  0.42455900  0.06235100  0.23709800  1
+  O  O6  1  0.52347000  0.99985600  0.73817600  1
+  O  O7  1  0.46984700  0.53014500  0.98354700  1
+  O  O8  1  0.47070300  0.52929200  0.49155100  1
+  O  O9  1  0.93764400  0.57543500  0.23709400  1
+  O  O10  1  0.00013300  0.47652600  0.73817600  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2LiHoRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31737052
+_cell_length_b   5.87472776
+_cell_length_c   5.87817531
+_cell_angle_alpha   60.01940155
+_cell_angle_beta   62.34613326
+_cell_angle_gamma   62.29196348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiHoRuO6
+_chemical_formula_sum   'Ba2 Li1 Ho1 Ru1 O6'
+_cell_volume   159.47193047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77693300  0.74044700  0.74217300  1
+  Ba  Ba1  1  0.37039300  0.21005700  0.20949300  1
+  Li  Li2  1  0.89320100  0.36771400  0.37137000  1
+  Ho  Ho3  1  0.43928100  0.52005600  0.52060800  1
+  Ru  Ru4  1  0.99233300  0.00228700  0.00309200  1
+  O  O5  1  0.21348000  0.77003500  0.76988000  1
+  O  O6  1  0.21516700  0.76968500  0.24546200  1
+  O  O7  1  0.74895500  0.24719600  0.75665300  1
+  O  O8  1  0.21348000  0.24660500  0.76988000  1
+  O  O9  1  0.75068000  0.24676700  0.24840300  1
+  O  O10  1  0.75068000  0.75415000  0.24840300  1

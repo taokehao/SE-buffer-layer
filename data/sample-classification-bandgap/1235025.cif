@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiTiFe5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30947121
+_cell_length_b   5.98986321
+_cell_length_c   6.23207605
+_cell_angle_alpha   87.93542641
+_cell_angle_beta   57.46616965
+_cell_angle_gamma   116.33266197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTiFe5O8
+_chemical_formula_sum   'Li1 Ti1 Fe5 O8'
+_cell_volume   165.79608136
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1
+  Ti  Ti1  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe2  1  0.26328200  0.10762400  0.17769300  1
+  Fe  Fe3  1  0.73671800  0.89237600  0.82230700  1
+  Fe  Fe4  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe5  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe6  1  0.00000000  0.50000000  0.50000000  1
+  O  O7  1  0.96554300  0.71798200  0.26441800  1
+  O  O8  1  0.94566700  0.20696400  0.28331300  1
+  O  O9  1  0.47704200  0.22070400  0.74082500  1
+  O  O10  1  0.53020300  0.27240200  0.27240200  1
+  O  O11  1  0.03445700  0.28201800  0.73558200  1
+  O  O12  1  0.05433300  0.79303600  0.71668700  1
+  O  O13  1  0.52295800  0.77929600  0.25917500  1
+  O  O14  1  0.46979700  0.72759800  0.72759800  1

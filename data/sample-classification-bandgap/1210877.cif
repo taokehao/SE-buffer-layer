@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2TcO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93472508
+_cell_length_b   4.93472508
+_cell_length_c   9.92875081
+_cell_angle_alpha   84.90976551
+_cell_angle_beta   84.90976551
+_cell_angle_gamma   117.38528362
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2TcO3
+_chemical_formula_sum   'Li8 Tc4 O12'
+_cell_volume   211.53202955
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.65021185  0.81165498  0.50378636  1
+  Li  Li1  1  0.34978815  0.18834502  0.49621364  1
+  Li  Li2  1  0.18834502  0.34978815  0.99621364  1
+  Li  Li3  1  0.81165498  0.65021185  0.00378636  1
+  Li  Li4  1  0.58349124  0.41650876  0.75000000  1
+  Li  Li5  1  0.41650876  0.58349124  0.25000000  1
+  Li  Li6  1  0.50000000  -0.00000000  0.00000000  1
+  Li  Li7  1  0.00000000  0.50000000  0.50000000  1
+  Tc  Tc8  1  0.23321454  0.76678546  0.75000000  1
+  Tc  Tc9  1  0.76678546  0.23321454  0.25000000  1
+  Tc  Tc10  1  0.93189077  0.06810923  0.75000000  1
+  Tc  Tc11  1  0.06810923  0.93189077  0.25000000  1
+  O  O12  1  0.79159011  0.95799632  0.11989697  1
+  O  O13  1  0.20840989  0.04200368  0.88010303  1
+  O  O14  1  0.04200368  0.20840989  0.38010303  1
+  O  O15  1  0.95799632  0.79159011  0.61989697  1
+  O  O16  1  0.54598791  0.72424967  0.86365423  1
+  O  O17  1  0.45401209  0.27575033  0.13634577  1
+  O  O18  1  0.27575033  0.45401209  0.63634577  1
+  O  O19  1  0.72424967  0.54598791  0.36365423  1
+  O  O20  1  0.61870744  0.10822973  0.63671312  1
+  O  O21  1  0.38129256  0.89177027  0.36328688  1
+  O  O22  1  0.89177027  0.38129256  0.86328688  1
+  O  O23  1  0.10822973  0.61870744  0.13671312  1

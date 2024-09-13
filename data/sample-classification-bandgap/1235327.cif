@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiIn4(HgO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58512856
+_cell_length_b   6.87975880
+_cell_length_c   6.58512856
+_cell_angle_alpha   61.41704060
+_cell_angle_beta   60.01702150
+_cell_angle_gamma   61.41704060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn4(HgO4)2
+_chemical_formula_sum   'Li1 In4 Hg2 O8'
+_cell_volume   215.38827265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00103300  0.50000100  0.00103300  1
+  In  In1  1  0.50008600  0.50000100  0.00007500  1
+  In  In2  1  0.49997000  0.00003800  0.49997000  1
+  In  In3  1  0.00007500  0.50000100  0.50008600  1
+  In  In4  1  0.49995400  0.50003400  0.49995400  1
+  Hg  Hg5  1  0.14624500  0.06052400  0.14624500  1
+  Hg  Hg6  1  0.85339800  0.93945300  0.85339800  1
+  O  O7  1  0.25821000  0.27134900  0.25821000  1
+  O  O8  1  0.71203900  0.27101600  0.25854800  1
+  O  O9  1  0.74171000  0.72875400  0.28784500  1
+  O  O10  1  0.72711100  0.31872200  0.72711100  1
+  O  O11  1  0.27293000  0.68125300  0.27293000  1
+  O  O12  1  0.25854800  0.27101600  0.71203900  1
+  O  O13  1  0.28784500  0.72875400  0.74171000  1
+  O  O14  1  0.74147200  0.72908400  0.74147200  1

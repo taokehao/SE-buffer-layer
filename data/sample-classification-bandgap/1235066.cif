@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba6LiNb2Ir(ClO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27485951
+_cell_length_b   6.27480181
+_cell_length_c   15.05055053
+_cell_angle_alpha   86.35106059
+_cell_angle_beta   93.64909371
+_cell_angle_gamma   124.03247461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6LiNb2Ir(ClO6)2
+_chemical_formula_sum   'Ba6 Li1 Nb2 Ir1 Cl2 O12'
+_cell_volume   489.81675853
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.30686500  0.69314700  0.37764900  1
+  Ba  Ba1  1  0.31563600  0.68437400  0.79624600  1
+  Ba  Ba2  1  0.65687500  0.34312900  0.64168300  1
+  Ba  Ba3  1  0.65261900  0.34739800  0.92641700  1
+  Ba  Ba4  1  0.35724900  0.64276300  0.05817300  1
+  Ba  Ba5  1  0.71312200  0.28690300  0.19791900  1
+  Li  Li6  1  0.49958400  0.50038700  0.27231800  1
+  Nb  Nb7  1  0.00311600  0.99689700  0.81458600  1
+  Nb  Nb8  1  0.00815600  0.99180700  0.18516800  1
+  Ir  Ir9  1  0.00570100  0.99431200  0.00458400  1
+  Cl  Cl10  1  0.64011800  0.35987900  0.40981200  1
+  Cl  Cl11  1  0.30475100  0.69525700  0.58296800  1
+  O  O12  1  0.17512800  0.29637400  0.91146200  1
+  O  O13  1  0.33422700  0.14995200  0.76348500  1
+  O  O14  1  0.15667600  0.31771700  0.25019000  1
+  O  O15  1  0.85007100  0.66578700  0.76348500  1
+  O  O16  1  0.85205500  0.14795700  0.74585200  1
+  O  O17  1  0.82027100  0.68558300  0.09645100  1
+  O  O18  1  0.15985100  0.84007700  0.25158800  1
+  O  O19  1  0.31441600  0.17972700  0.09646400  1
+  O  O20  1  0.85217600  0.14782200  0.07709800  1
+  O  O21  1  0.70363800  0.82488300  0.91145800  1
+  O  O22  1  0.68225000  0.84329700  0.25017800  1
+  O  O23  1  0.15628100  0.84373900  0.92726400  1

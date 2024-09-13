@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_LiFe8(O7F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71159456
+_cell_length_b   4.72698781
+_cell_length_c   11.89602693
+_cell_angle_alpha   89.92423406
+_cell_angle_beta   89.67708322
+_cell_angle_gamma   89.70284878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFe8(O7F)2
+_chemical_formula_sum   'Li1 Fe8 O14 F2'
+_cell_volume   264.93615635
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.97590000  0.49975800  0.87823000  1
+  Fe  Fe1  1  0.00537400  0.99298100  0.01126400  1
+  Fe  Fe2  1  0.00042600  0.99123000  0.25387800  1
+  Fe  Fe3  1  0.02961300  0.01936700  0.50056000  1
+  Fe  Fe4  1  0.00781400  0.99111600  0.74299600  1
+  Fe  Fe5  1  0.49962400  0.49152000  0.12663000  1
+  Fe  Fe6  1  0.49960800  0.48805000  0.63158500  1
+  Fe  Fe7  1  0.47165700  0.53026400  0.87766000  1
+  Fe  Fe8  1  0.50140700  0.49088300  0.37173100  1
+  O  O9  1  0.19976100  0.80690900  0.13265600  1
+  O  O10  1  0.21699800  0.81697500  0.62056500  1
+  O  O11  1  0.18610000  0.83518800  0.87849300  1
+  O  O12  1  0.20210900  0.81237000  0.37712100  1
+  O  O13  1  0.27334200  0.33394800  0.99629900  1
+  O  O14  1  0.30627900  0.30207200  0.24910500  1
+  O  O15  1  0.32338900  0.31936000  0.49923100  1
+  O  O16  1  0.26968200  0.33666500  0.76158900  1
+  O  O17  1  0.70277300  0.67033400  0.99701900  1
+  O  O18  1  0.69808400  0.67895100  0.25186500  1
+  O  O19  1  0.70812800  0.67143900  0.75968400  1
+  O  O20  1  0.79907300  0.17643900  0.12979700  1
+  O  O21  1  0.81619800  0.18281500  0.37741300  1
+  O  O22  1  0.80904700  0.18553900  0.62304900  1
+  F  F23  1  0.71497600  0.68840000  0.50130700  1
+  F  F24  1  0.76874700  0.17354400  0.87805200  1

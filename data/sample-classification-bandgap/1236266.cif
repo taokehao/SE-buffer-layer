@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrLiEu(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64766404
+_cell_length_b   3.96210479
+_cell_length_c   9.45037187
+_cell_angle_alpha   78.02923584
+_cell_angle_beta   98.01309671
+_cell_angle_gamma   89.91769834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiEu(CoO3)2
+_chemical_formula_sum   'Sr1 Li1 Eu1 Co2 O6'
+_cell_volume   132.24117089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.10255600  0.82929700  0.43605100  1
+  Li  Li1  1  0.78885700  0.21206700  0.67231800  1
+  Eu  Eu2  1  0.96531400  0.03054700  0.04008100  1
+  Co  Co3  1  0.54313600  0.42708700  0.24544300  1
+  Co  Co4  1  0.37681600  0.64385100  0.80942700  1
+  O  O5  1  0.03356700  0.43557000  0.21651700  1
+  O  O6  1  0.90654300  0.69547800  0.70532300  1
+  O  O7  1  0.46807400  0.54315500  0.01306800  1
+  O  O8  1  0.61703100  0.32334500  0.45446800  1
+  O  O9  1  0.53619200  0.93533800  0.22911600  1
+  O  O10  1  0.44762900  0.13855200  0.81985500  1

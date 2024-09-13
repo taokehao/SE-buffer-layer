@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2Li(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75169400
+_cell_length_b   6.03547349
+_cell_length_c   5.07276730
+_cell_angle_alpha   102.81877700
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.45644314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Li(NiO3)2
+_chemical_formula_sum   'Ba2 Li1 Ni2 O6'
+_cell_volume   149.80998042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.62894400  0.25788800  0.86355400  1
+  Ba  Ba1  1  0.33537100  0.67074100  0.24967700  1
+  Li  Li2  1  0.79465200  0.58930300  0.49584800  1
+  Ni  Ni3  1  0.01517900  0.03035900  0.48487300  1
+  Ni  Ni4  1  0.00482000  0.00963900  0.98367500  1
+  O  O5  1  0.85710600  0.16065100  0.27318300  1
+  O  O6  1  0.72245700  0.86625400  0.68603100  1
+  O  O7  1  0.15880300  0.31760400  0.78708500  1
+  O  O8  1  0.85824400  0.71648800  0.19130700  1
+  O  O9  1  0.14379700  0.86625400  0.68603100  1
+  O  O10  1  0.30354400  0.16065100  0.27318300  1

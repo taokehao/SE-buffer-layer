@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_BaLiAl3P2(HO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23731770
+_cell_length_b   7.23732240
+_cell_length_c   7.94505735
+_cell_angle_alpha   61.31382426
+_cell_angle_beta   118.69191629
+_cell_angle_gamma   127.02115657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiAl3P2(HO7)2
+_chemical_formula_sum   'Ba1 Li1 Al3 P2 H2 O14'
+_cell_volume   280.42425445
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.95885600  0.04080100  0.98567800  1
+  Li  Li1  1  0.27608000  0.72332200  0.20751700  1
+  Al  Al2  1  0.99513400  0.00445900  0.49166800  1
+  Al  Al3  1  0.49568400  0.01279600  0.48546900  1
+  Al  Al4  1  0.98676600  0.50389900  0.48548900  1
+  P  P5  1  0.26746000  0.73228200  0.83614300  1
+  P  P6  1  0.71955600  0.27998900  0.12922300  1
+  H  H7  1  0.40124300  0.59827100  0.59735000  1
+  H  H8  1  0.66552500  0.33404400  0.62313100  1
+  O  O9  1  0.34425000  0.65562500  0.06070100  1
+  O  O10  1  0.65282500  0.34670500  0.90647300  1
+  O  O11  1  0.12724900  0.87246000  0.74982400  1
+  O  O12  1  0.86298700  0.13664100  0.22889100  1
+  O  O13  1  0.10350800  0.50537000  0.75435800  1
+  O  O14  1  0.49432300  0.89619100  0.75432800  1
+  O  O15  1  0.49072900  0.10979400  0.21495600  1
+  O  O16  1  0.88973200  0.50881500  0.21497000  1
+  O  O17  1  0.31826300  0.68127700  0.47868100  1
+  O  O18  1  0.67384700  0.32572600  0.50738000  1
+  O  O19  1  0.78154200  0.98133300  0.58470100  1
+  O  O20  1  0.01826400  0.21806300  0.58472700  1
+  O  O21  1  0.96838200  0.79376000  0.38989000  1
+  O  O22  1  0.20577900  0.03112700  0.38988100  1

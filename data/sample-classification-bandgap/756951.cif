@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiSbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34075079
+_cell_length_b   5.34075079
+_cell_length_c   5.05847015
+_cell_angle_alpha   83.12870703
+_cell_angle_beta   83.12870703
+_cell_angle_gamma   123.12512003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSbO3
+_chemical_formula_sum   'Li2 Sb2 O6'
+_cell_volume   116.96062374
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.65169285  0.34830715  -0.00000000  1
+  Li  Li1  1  0.34830715  0.65169285  -0.00000000  1
+  Sb  Sb2  1  0.83937778  0.16062222  0.50000000  1
+  Sb  Sb3  1  0.16062222  0.83937778  0.50000000  1
+  O  O4  1  0.79731716  0.79731716  0.71695161  1
+  O  O5  1  0.20268284  0.20268284  0.28304839  1
+  O  O6  1  0.44966572  0.05043401  0.73711315  1
+  O  O7  1  0.94956599  0.55033428  0.26288685  1
+  O  O8  1  0.55033428  0.94956599  0.26288685  1
+  O  O9  1  0.05043401  0.44966572  0.73711315  1

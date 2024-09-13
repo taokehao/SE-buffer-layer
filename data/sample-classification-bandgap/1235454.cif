@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr2LiV2(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45053072
+_cell_length_b   7.25842200
+_cell_length_c   8.26124908
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.26181833
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiV2(Si2O7)2
+_chemical_formula_sum   'Sr2 Li1 V2 Si4 O14'
+_cell_volume   308.53779808
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.14876000  0.75000000  0.29752000  1
+  Sr  Sr1  1  0.79504100  0.25000000  0.59008200  1
+  Li  Li2  1  0.32816100  0.75000000  0.65632200  1
+  V  V3  1  0.89370300  0.75000000  0.78740500  1
+  V  V4  1  0.11229000  0.25000000  0.22458100  1
+  Si  Si5  1  0.40067000  0.46416700  0.80133900  1
+  Si  Si6  1  0.60549900  0.52002300  0.21100000  1
+  Si  Si7  1  0.60549900  0.97997700  0.21100000  1
+  Si  Si8  1  0.40067000  0.03583300  0.80133900  1
+  O  O9  1  0.62400700  0.75000000  0.24801300  1
+  O  O10  1  0.36613400  0.25000000  0.73226700  1
+  O  O11  1  0.50401900  0.47559500  0.00803900  1
+  O  O12  1  0.50401900  0.02440500  0.00803900  1
+  O  O13  1  0.59704700  0.55636300  0.71228100  1
+  O  O14  1  0.89953800  0.44082800  0.30430200  1
+  O  O15  1  0.40476300  0.05917200  0.30430200  1
+  O  O16  1  0.11523400  0.94363700  0.71228100  1
+  O  O17  1  0.00773100  0.25000000  0.01546300  1
+  O  O18  1  0.00813100  0.75000000  0.01626200  1
+  O  O19  1  0.89953800  0.05917200  0.30430200  1
+  O  O20  1  0.59704700  0.94363700  0.71228100  1
+  O  O21  1  0.11523400  0.55636300  0.71228100  1
+  O  O22  1  0.40476300  0.44082800  0.30430200  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiAl4Cd2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29078735
+_cell_length_b   6.29078735
+_cell_length_c   5.82539457
+_cell_angle_alpha   62.41849323
+_cell_angle_beta   62.41849323
+_cell_angle_gamma   58.38693212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl4Cd2O8
+_chemical_formula_sum   'Li1 Al4 Cd2 O8'
+_cell_volume   166.43616334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66249200  0.66249200  0.08750800  1
+  Al  Al1  1  0.46276800  0.46276800  0.02789700  1
+  Al  Al2  1  0.51119600  0.98404400  0.50238000  1
+  Al  Al3  1  0.98404400  0.51119600  0.50238000  1
+  Al  Al4  1  0.46276800  0.46276800  0.54656700  1
+  Cd  Cd5  1  0.10481300  0.10481300  0.14518700  1
+  Cd  Cd6  1  0.92128700  0.92128700  0.82871300  1
+  O  O7  1  0.26433400  0.26433400  0.69952000  1
+  O  O8  1  0.27922300  0.67307300  0.27385200  1
+  O  O9  1  0.67307300  0.27922300  0.27385200  1
+  O  O10  1  0.26433400  0.26433400  0.27181200  1
+  O  O11  1  0.75090900  0.75090900  0.28369500  1
+  O  O12  1  0.71885700  0.33482700  0.72315800  1
+  O  O13  1  0.33482700  0.71885700  0.72315800  1
+  O  O14  1  0.75090900  0.75090900  0.71448800  1

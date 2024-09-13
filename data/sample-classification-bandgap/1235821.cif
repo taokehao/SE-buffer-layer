@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiCe10(Pb3O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66644023
+_cell_length_b   8.64614772
+_cell_length_c   9.52863346
+_cell_angle_alpha   117.77615720
+_cell_angle_beta   117.87820280
+_cell_angle_gamma   88.45729279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCe10(Pb3O)2
+_chemical_formula_sum   'Li1 Ce10 Pb6 O2'
+_cell_volume   541.50211080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12304770  0.37453082  0.99872594  1
+  Ce  Ce1  1  0.70456121  0.49345453  0.69900401  1
+  Ce  Ce2  1  0.79725132  0.30770437  0.30099860  1
+  Ce  Ce3  1  0.49722817  0.00702269  0.69932002  1
+  Ce  Ce4  1  0.49485535  0.00201744  0.30204941  1
+  Ce  Ce5  1  0.36357435  0.51071098  0.37232566  1
+  Ce  Ce6  1  0.99412521  0.01081625  0.99982030  1
+  Ce  Ce7  1  0.19348676  0.70003087  0.69821705  1
+  Ce  Ce8  1  0.99136619  0.13560590  0.62522490  1
+  Ce  Ce9  1  0.00553725  0.79628930  0.30218428  1
+  Ce  Ce10  1  0.48898461  0.50492475  0.99996615  1
+  Pb  Pb11  1  0.83459425  0.35612757  0.00078162  1
+  Pb  Pb12  1  0.14464746  0.66575184  0.00079902  1
+  Pb  Pb13  1  0.64717910  0.85272826  1.00003051  1
+  Pb  Pb14  1  0.25451178  0.24650884  0.49953130  1
+  Pb  Pb15  1  0.34869812  0.15019324  0.99987636  1
+  Pb  Pb16  1  0.75437931  0.74627195  0.50063586  1
+  O  O17  1  0.75028384  0.24019287  0.49045348  1
+  O  O18  1  0.26012403  0.75068052  0.51005651  1

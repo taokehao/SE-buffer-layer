@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_LiEr4Be4(SiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76505400
+_cell_length_b   7.40151800
+_cell_length_c   7.40151800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEr4Be4(SiO7)2
+_chemical_formula_sum   'Li1 Er4 Be4 Si2 O14'
+_cell_volume   261.04142163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Er  Er1  1  0.51170700  0.16626000  0.64279200  1
+  Er  Er2  1  0.51170700  0.83374000  0.35720800  1
+  Er  Er3  1  0.48829200  0.64279200  0.83374000  1
+  Er  Er4  1  0.48829200  0.35720800  0.16626000  1
+  Be  Be5  1  0.96158100  0.63599500  0.13540900  1
+  Be  Be6  1  0.96158100  0.36400500  0.86459100  1
+  Be  Be7  1  0.03841900  0.13540900  0.36400500  1
+  Be  Be8  1  0.03841900  0.86459100  0.63599500  1
+  Si  Si9  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si10  1  0.00000000  0.50000000  0.50000000  1
+  O  O11  1  0.18136100  0.00000000  0.50000000  1
+  O  O12  1  0.81863900  0.50000000  0.00000000  1
+  O  O13  1  0.29465100  0.64354300  0.13967200  1
+  O  O14  1  0.29465100  0.35645700  0.86032800  1
+  O  O15  1  0.70534900  0.13967200  0.35645700  1
+  O  O16  1  0.70534900  0.86032800  0.64354300  1
+  O  O17  1  0.20972700  0.08122300  0.15811500  1
+  O  O18  1  0.20972700  0.91877700  0.84188500  1
+  O  O19  1  0.79027300  0.15811500  0.91877700  1
+  O  O20  1  0.79850400  0.42075600  0.66323800  1
+  O  O21  1  0.79027300  0.84188500  0.08122300  1
+  O  O22  1  0.79850400  0.57924400  0.33676200  1
+  O  O23  1  0.20149600  0.33676200  0.42075600  1
+  O  O24  1  0.20149600  0.66323800  0.57924400  1

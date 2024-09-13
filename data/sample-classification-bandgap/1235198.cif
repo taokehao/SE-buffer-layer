@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_LiV4(GeO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43607578
+_cell_length_b   4.73612620
+_cell_length_c   11.55609794
+_cell_angle_alpha   90.06214021
+_cell_angle_beta   89.59232890
+_cell_angle_gamma   89.72053618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiV4(GeO4)4
+_chemical_formula_sum   'Li1 V4 Ge4 O16'
+_cell_volume   242.78229096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50151511  0.25565910  0.43712298  1
+  V  V1  1  0.00318878  0.75967180  0.56671682  1
+  V  V2  1  0.49905210  0.75090461  0.06859448  1
+  V  V3  1  0.49889057  0.24986307  0.93060512  1
+  V  V4  1  0.00044357  0.23760768  0.43475401  1
+  Ge  Ge5  1  0.00222190  0.74928945  0.82030227  1
+  Ge  Ge6  1  0.50364393  0.25522749  0.68265628  1
+  Ge  Ge7  1  0.49736772  0.74609865  0.31602624  1
+  Ge  Ge8  1  0.99516623  0.25248319  0.17899330  1
+  O  O9  1  0.23380516  0.08219293  0.30836388  1
+  O  O10  1  0.25230619  0.58141863  0.43503603  1
+  O  O11  1  0.24844392  0.07761713  0.06293581  1
+  O  O12  1  0.26686759  0.08146774  0.56415820  1
+  O  O13  1  0.26678131  0.58208450  0.19091569  1
+  O  O14  1  0.27442564  0.08114346  0.80865409  1
+  O  O15  1  0.22539421  0.58012837  0.69238915  1
+  O  O16  1  0.24843556  0.57718837  0.93835421  1
+  O  O17  1  0.74912457  0.42378447  0.06197626  1
+  O  O18  1  0.76104847  0.41483774  0.30770605  1
+  O  O19  1  0.72937852  0.91755508  0.19096839  1
+  O  O20  1  0.72751650  0.42017067  0.80874567  1
+  O  O21  1  0.73982561  0.91300529  0.43518444  1
+  O  O22  1  0.75149168  0.92361466  0.93793383  1
+  O  O23  1  0.74579386  0.41554044  0.56154917  1
+  O  O24  1  0.77787133  0.92144548  0.69269060  1

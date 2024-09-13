@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiLu2Al2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33057701
+_cell_length_b   3.33057974
+_cell_length_c   14.18810806
+_cell_angle_alpha   90.00009344
+_cell_angle_beta   90.00144388
+_cell_angle_gamma   120.00394504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLu2Al2O6
+_chemical_formula_sum   'Li1 Lu2 Al2 O6'
+_cell_volume   136.29413545
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66654100  0.33349400  0.11857500  1
+  Lu  Lu1  1  0.99947300  0.00057800  0.94160900  1
+  Lu  Lu2  1  0.99939100  0.00059100  0.52914500  1
+  Al  Al3  1  0.33269300  0.66724800  0.32273600  1
+  Al  Al4  1  0.66611500  0.33392000  0.73618300  1
+  O  O5  1  0.33281600  0.66730000  0.02405800  1
+  O  O6  1  0.33269700  0.66728200  0.45424600  1
+  O  O7  1  0.99938200  0.00055800  0.31835700  1
+  O  O8  1  0.99942000  0.00061900  0.73739500  1
+  O  O9  1  0.66612300  0.33394000  0.86783900  1
+  O  O10  1  0.66606400  0.33395400  0.60541600  1

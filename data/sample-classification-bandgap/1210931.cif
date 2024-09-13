@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiFeCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47820667
+_cell_length_b   7.05901348
+_cell_length_c   12.80871328
+_cell_angle_alpha   86.84031568
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeCl4
+_chemical_formula_sum   'Li4 Fe4 Cl16'
+_cell_volume   584.84878938
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.48682316  0.85696787  0.86984691  1
+  Li  Li1  1  0.51317684  0.14303213  0.13015309  1
+  Li  Li2  1  0.98682316  0.14303213  0.63015309  1
+  Li  Li3  1  0.01317684  0.85696787  0.36984691  1
+  Fe  Fe4  1  0.17656194  0.70393593  0.60144256  1
+  Fe  Fe5  1  0.82343806  0.29606407  0.39855744  1
+  Fe  Fe6  1  0.67656194  0.29606407  0.89855744  1
+  Fe  Fe7  1  0.32343806  0.70393593  0.10144256  1
+  Cl  Cl8  1  0.17368117  0.43071017  0.68928473  1
+  Cl  Cl9  1  0.82631883  0.56928983  0.31071527  1
+  Cl  Cl10  1  0.67368117  0.56928983  0.81071527  1
+  Cl  Cl11  1  0.32631883  0.43071017  0.18928473  1
+  Cl  Cl12  1  0.31825655  0.93245132  0.69013730  1
+  Cl  Cl13  1  0.68174345  0.06754868  0.30986270  1
+  Cl  Cl14  1  0.81825655  0.06754868  0.80986270  1
+  Cl  Cl15  1  0.18174345  0.93245132  0.19013730  1
+  Cl  Cl16  1  0.18051342  0.69095687  0.94733541  1
+  Cl  Cl17  1  0.81948658  0.30904313  0.05266459  1
+  Cl  Cl18  1  0.68051342  0.30904313  0.55266459  1
+  Cl  Cl19  1  0.31948658  0.69095687  0.44733541  1
+  Cl  Cl20  1  0.86210653  0.81461414  0.56537322  1
+  Cl  Cl21  1  0.13789347  0.18538586  0.43462678  1
+  Cl  Cl22  1  0.36210653  0.18538586  0.93462678  1
+  Cl  Cl23  1  0.63789347  0.81461414  0.06537322  1

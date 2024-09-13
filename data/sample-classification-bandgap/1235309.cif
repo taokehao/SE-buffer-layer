@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiHo2Cu(SiO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00940344
+_cell_length_b   7.18042846
+_cell_length_c   7.96359703
+_cell_angle_alpha   63.73585381
+_cell_angle_beta   85.35350107
+_cell_angle_gamma   76.86856105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo2Cu(SiO3)4
+_chemical_formula_sum   'Li1 Ho2 Cu1 Si4 O12'
+_cell_volume   250.09656863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.00000000  1
+  Ho  Ho1  1  0.01191300  0.78518500  0.42757400  1
+  Ho  Ho2  1  0.98808700  0.21481500  0.57242600  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si4  1  0.58118900  0.59593100  0.21307200  1
+  Si  Si5  1  0.41881100  0.40406900  0.78692800  1
+  Si  Si6  1  0.42708300  0.18678400  0.22064100  1
+  Si  Si7  1  0.57291700  0.81321600  0.77935900  1
+  O  O8  1  0.30424700  0.77246100  0.20406400  1
+  O  O9  1  0.69575300  0.22753900  0.79593600  1
+  O  O10  1  0.29646900  0.30836200  0.00255300  1
+  O  O11  1  0.70353100  0.69163800  0.99744700  1
+  O  O12  1  0.18891200  0.44444500  0.63473300  1
+  O  O13  1  0.81108800  0.55555500  0.36526700  1
+  O  O14  1  0.30609800  0.98827800  0.78602200  1
+  O  O15  1  0.69390200  0.01172200  0.21397800  1
+  O  O16  1  0.51821100  0.35901400  0.27640000  1
+  O  O17  1  0.48178900  0.64098600  0.72360000  1
+  O  O18  1  0.19688400  0.08548900  0.36848400  1
+  O  O19  1  0.80311600  0.91451100  0.63151600  1

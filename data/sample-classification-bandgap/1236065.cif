@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiCd4(TcO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59749530
+_cell_length_b   5.53504904
+_cell_length_c   7.95615803
+_cell_angle_alpha   89.77378266
+_cell_angle_beta   90.02515198
+_cell_angle_gamma   88.98749172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCd4(TcO3)4
+_chemical_formula_sum   'Li1 Cd4 Tc4 O12'
+_cell_volume   246.46051687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.78650200  0.66539300  0.24908400  1
+  Cd  Cd1  1  0.44757200  0.41568100  0.24729300  1
+  Cd  Cd2  1  0.99571400  0.07069200  0.24736700  1
+  Cd  Cd3  1  0.50094900  0.45291400  0.75226600  1
+  Cd  Cd4  1  0.01607700  0.96998500  0.75376700  1
+  Tc  Tc5  1  0.00877500  0.50811900  0.98751600  1
+  Tc  Tc6  1  0.50576700  0.99286100  0.50554500  1
+  Tc  Tc7  1  0.01035800  0.50726200  0.51381900  1
+  Tc  Tc8  1  0.50562300  0.99374000  0.99665300  1
+  O  O9  1  0.81594100  0.81312000  0.04426300  1
+  O  O10  1  0.70715900  0.30766200  0.45074800  1
+  O  O11  1  0.21077900  0.20329300  0.55549100  1
+  O  O12  1  0.30654500  0.70245400  0.93718200  1
+  O  O13  1  0.20721600  0.20192000  0.94868000  1
+  O  O14  1  0.30824800  0.70246800  0.55582000  1
+  O  O15  1  0.81797100  0.81597300  0.45260700  1
+  O  O16  1  0.70990900  0.30546000  0.05089300  1
+  O  O17  1  0.40423300  0.97954500  0.25130200  1
+  O  O18  1  0.07738900  0.48708700  0.25146800  1
+  O  O19  1  0.61481300  0.02923700  0.74907100  1
+  O  O20  1  0.89960300  0.52990000  0.74916700  1

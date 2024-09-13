@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2Cr3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73448896
+_cell_length_b   5.73498151
+_cell_length_c   5.73477004
+_cell_angle_alpha   60.65991248
+_cell_angle_beta   60.65138847
+_cell_angle_gamma   60.65677676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Cr3NiO8
+_chemical_formula_sum   'Li2 Cr3 Ni1 O8'
+_cell_volume   135.33585879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.12737262  0.12738875  0.12738722  1
+  Li  Li1  1  0.87262738  0.87261125  0.87261278  1
+  Cr  Cr2  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr3  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr4  1  0.50000000  0.00000000  0.50000000  1
+  Ni  Ni5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.26292001  0.26304975  0.26307729  1
+  O  O7  1  0.26480905  0.71180451  0.26493797  1
+  O  O8  1  0.26486374  0.26491787  0.71173487  1
+  O  O9  1  0.71176010  0.26486023  0.26493385  1
+  O  O10  1  0.28823990  0.73513977  0.73506615  1
+  O  O11  1  0.73513626  0.73508213  0.28826513  1
+  O  O12  1  0.73519095  0.28819549  0.73506203  1
+  O  O13  1  0.73707999  0.73695025  0.73692271  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiSc2Al2(CO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27215130
+_cell_length_b   10.27215130
+_cell_length_c   10.21713566
+_cell_angle_alpha   18.91212372
+_cell_angle_beta   18.91212372
+_cell_angle_gamma   20.82427242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSc2Al2(CO)2
+_chemical_formula_sum   'Li1 Sc2 Al2 C2 O2'
+_cell_volume   104.84430435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.00000000  1
+  Sc  Sc1  1  0.00000000  0.00000000  0.00000000  1
+  Sc  Sc2  1  0.50000000  0.50000000  0.50000000  1
+  Al  Al3  1  0.73738000  0.73738000  0.75193000  1
+  Al  Al4  1  0.26262000  0.26262000  0.24806900  1
+  C  C5  1  0.62831000  0.62831000  0.58036100  1
+  C  C6  1  0.37169000  0.37169000  0.41963900  1
+  O  O7  1  0.19355000  0.19355000  0.20551700  1
+  O  O8  1  0.80645000  0.80645000  0.79448200  1

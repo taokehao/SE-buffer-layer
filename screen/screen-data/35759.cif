@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Li2NiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75381729
+_cell_length_b   5.89925374
+_cell_length_c   8.19951773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2NiF4
+_chemical_formula_sum   'Li8 Ni4 F16'
+_cell_volume   278.31810124
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  Li+  1.0
+  Ni2+  2.0
+  F-  -1.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li+  Li  1  0.50000000  0.25000000  0.86459955  1
+  Li+  Li  1  0.25000000  0.25000000  0.25000000  1
+  Li+  Li  1  0.25000000  0.75000000  0.75000000  1
+  Li+  Li  1  0.50000000  0.75000000  0.13540045  1
+  Li+  Li  1  0.00000000  0.75000000  0.36459955  1
+  Li+  Li  1  0.75000000  0.75000000  0.75000000  1
+  Li+  Li  1  0.75000000  0.25000000  0.25000000  1
+  Li+  Li  1  0.00000000  0.25000000  0.63540045  1
+  Ni2+  Ni  1  0.50000000  0.50000000  0.50000000  1
+  Ni2+  Ni  1  0.00000000  0.50000000  0.00000000  1
+  Ni2+  Ni  1  0.00000000  0.00000000  0.00000000  1
+  Ni2+  Ni  1  0.50000000  0.00000000  0.50000000  1
+  F-  F  1  0.23762339  0.25000000  0.00320077  1
+  F-  F  1  0.76237661  0.25000000  0.00320077  1
+  F-  F  1  0.00000000  0.48388882  0.24005623  1
+  F-  F  1  0.50000000  0.51611118  0.74005623  1
+  F-  F  1  0.50000000  0.48388882  0.25994377  1
+  F-  F  1  0.23762339  0.75000000  0.99679923  1
+  F-  F  1  0.00000000  0.51611118  0.75994377  1
+  F-  F  1  0.76237661  0.75000000  0.99679923  1
+  F-  F  1  0.73762339  0.75000000  0.50320077  1
+  F-  F  1  0.26237661  0.75000000  0.50320077  1
+  F-  F  1  0.50000000  0.98388882  0.74005623  1
+  F-  F  1  0.00000000  0.01611118  0.24005623  1
+  F-  F  1  0.00000000  0.98388882  0.75994377  1
+  F-  F  1  0.73762339  0.25000000  0.49679923  1
+  F-  F  1  0.50000000  0.01611118  0.25994377  1
+  F-  F  1  0.26237661  0.25000000  0.49679923  1

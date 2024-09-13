@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_LiSm3Bi(Ru2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41080081
+_cell_length_b   7.41119678
+_cell_length_c   7.36414571
+_cell_angle_alpha   90.00334253
+_cell_angle_beta   59.78649734
+_cell_angle_gamma   120.00269552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSm3Bi(Ru2O7)2
+_chemical_formula_sum   'Li1 Sm3 Bi1 Ru4 O14'
+_cell_volume   285.06691147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99994100  0.99995500  0.00027400  1
+  Sm  Sm1  1  0.25021000  0.37627100  0.37353400  1
+  Sm  Sm2  1  0.25022300  0.87394100  0.37344700  1
+  Sm  Sm3  1  0.75245700  0.37626000  0.37352800  1
+  Bi  Bi4  1  0.75110400  0.37546500  0.87337300  1
+  Ru  Ru5  1  0.73862400  0.86933800  0.39205700  1
+  Ru  Ru6  1  0.26077000  0.86997300  0.86923500  1
+  Ru  Ru7  1  0.26072100  0.39073200  0.86931600  1
+  Ru  Ru8  1  0.73998200  0.86997000  0.86927500  1
+  O  O9  1  0.49547800  0.24774300  0.25668200  1
+  O  O10  1  0.00377500  0.50189500  0.49426300  1
+  O  O11  1  0.90998200  0.95503200  0.54470500  1
+  O  O12  1  0.50024100  0.54532500  0.54471900  1
+  O  O13  1  0.50032800  0.95503600  0.54460600  1
+  O  O14  1  0.09542500  0.54771300  0.95268600  1
+  O  O15  1  0.49960700  0.95192100  0.95279200  1
+  O  O16  1  0.49961700  0.54778000  0.95268700  1
+  O  O17  1  0.58246800  0.79117600  0.20898800  1
+  O  O18  1  0.99978000  0.20855800  0.20901300  1
+  O  O19  1  0.99972400  0.79114500  0.20902900  1
+  O  O20  1  0.41213900  0.20604500  0.79525500  1
+  O  O21  1  0.99872500  0.79269900  0.79526700  1
+  O  O22  1  0.99867800  0.20602800  0.79526800  1

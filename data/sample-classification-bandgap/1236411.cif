@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2LiY2(Fe2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87223900
+_cell_length_b   8.86653789
+_cell_length_c   8.12224690
+_cell_angle_alpha   87.59535509
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiY2(Fe2O5)2
+_chemical_formula_sum   'Ba2 Li1 Y2 Fe4 O10'
+_cell_volume   278.61841817
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.98729900  0.55148800  1
+  Ba  Ba1  1  0.00000000  0.10491800  0.00913100  1
+  Li  Li2  1  0.50000000  0.86278900  0.97719600  1
+  Y  Y3  1  0.00000000  0.51589800  0.02126000  1
+  Y  Y4  1  0.00000000  0.52505500  0.50172600  1
+  Fe  Fe5  1  0.49999900  0.74136000  0.25474000  1
+  Fe  Fe6  1  0.49999900  0.30947200  0.73613800  1
+  Fe  Fe7  1  0.49999900  0.31665600  0.26753400  1
+  Fe  Fe8  1  0.49999900  0.70444600  0.74930500  1
+  O  O9  1  0.49999900  0.72929600  0.49158300  1
+  O  O10  1  0.49999900  0.39865200  0.49367600  1
+  O  O11  1  0.49999900  0.65907800  0.01970200  1
+  O  O12  1  0.49999900  0.33874100  0.99066600  1
+  O  O13  1  0.00000000  0.62220400  0.75416200  1
+  O  O14  1  0.00000000  0.31468700  0.24660300  1
+  O  O15  1  0.00000000  0.65272900  0.25577300  1
+  O  O16  1  0.00000000  0.26321800  0.71538800  1
+  O  O17  1  0.49999900  0.94873800  0.18505900  1
+  O  O18  1  0.49999900  0.94643000  0.77053700  1

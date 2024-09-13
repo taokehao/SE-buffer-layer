@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3Li(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91773448
+_cell_length_b   8.87252365
+_cell_length_c   7.89953765
+_cell_angle_alpha   43.01559645
+_cell_angle_beta   42.17961961
+_cell_angle_gamma   43.04453934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Li(AsO4)2
+_chemical_formula_sum   'Ba3 Li1 As2 O8'
+_cell_volume   231.55578927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.77421600  0.86082300  0.77599700  1
+  Ba  Ba1  1  0.19379100  0.24751300  0.19648400  1
+  Ba  Ba2  1  0.03097000  0.89603800  0.03878800  1
+  Li  Li3  1  0.86738700  0.41824500  0.86189600  1
+  As  As4  1  0.61872900  0.55742100  0.62127400  1
+  As  As5  1  0.40283400  0.41974700  0.40028800  1
+  O  O6  1  0.65787900  0.73153200  0.65066400  1
+  O  O7  1  0.29860100  0.39228600  0.29798000  1
+  O  O8  1  0.74723300  0.68665000  0.25806900  1
+  O  O9  1  0.72743300  0.22738200  0.73208100  1
+  O  O10  1  0.25708700  0.69331800  0.74259100  1
+  O  O11  1  0.29039000  0.72225900  0.28594300  1
+  O  O12  1  0.25549100  0.27811200  0.75979500  1
+  O  O13  1  0.76129200  0.27700600  0.25315000  1

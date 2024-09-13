@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2LiCoWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10847123
+_cell_length_b   6.55622798
+_cell_length_c   6.14807359
+_cell_angle_alpha   130.62360377
+_cell_angle_beta   126.47178689
+_cell_angle_gamma   73.99252821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiCoWO6
+_chemical_formula_sum   'Sr2 Li1 Co1 W1 O6'
+_cell_volume   147.76371042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.21453100  0.69052600  0.47209100  1
+  Sr  Sr1  1  0.78542900  0.30945300  0.52787100  1
+  Li  Li2  1  0.50000700  0.00001300  0.49995200  1
+  Co  Co3  1  0.00007000  0.00003400  0.00006000  1
+  W  W4  1  0.49987100  0.50002300  0.99982900  1
+  O  O5  1  0.66851200  0.79942700  0.12507700  1
+  O  O6  1  0.18274500  0.70873600  0.03842500  1
+  O  O7  1  0.81727700  0.29126600  0.96157300  1
+  O  O8  1  0.33153100  0.20050600  0.87499000  1
+  O  O9  1  0.31728100  0.29344600  0.47596800  1
+  O  O10  1  0.68274400  0.70657100  0.52416400  1

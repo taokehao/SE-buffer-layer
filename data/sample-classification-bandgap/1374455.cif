@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_LiMnSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04118300
+_cell_length_b   7.16870376
+_cell_length_c   7.71294596
+_cell_angle_alpha   117.31716152
+_cell_angle_beta   108.80768340
+_cell_angle_gamma   98.20244212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnSi3O8
+_chemical_formula_sum   'Li2 Mn2 Si6 O16'
+_cell_volume   307.26380930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.80207200  0.35036500  0.82708200  1
+  Li  Li1  1  0.19792800  0.64963500  0.17291800  1
+  Mn  Mn2  1  0.13848300  0.03400800  0.22299200  1
+  Mn  Mn3  1  0.86151700  0.96599200  0.77700800  1
+  Si  Si4  1  0.73306900  0.22335500  0.22542100  1
+  Si  Si5  1  0.62129100  0.78648600  0.46528900  1
+  Si  Si6  1  0.73957000  0.67260300  0.16917900  1
+  Si  Si7  1  0.26043000  0.32739700  0.83082100  1
+  Si  Si8  1  0.37870900  0.21351400  0.53471100  1
+  Si  Si9  1  0.26693100  0.77664500  0.77457900  1
+  O  O10  1  0.87783300  0.16839200  0.14114100  1
+  O  O11  1  0.71919900  0.71214700  0.34937400  1
+  O  O12  1  0.48819800  0.26291700  0.04445500  1
+  O  O13  1  0.36376300  0.84296700  0.31108900  1
+  O  O14  1  0.92257000  0.80694200  0.09652900  1
+  O  O15  1  0.74021900  0.01790100  0.45513300  1
+  O  O16  1  0.81010500  0.41971800  0.28244200  1
+  O  O17  1  0.70258600  0.63849300  0.71853100  1
+  O  O18  1  0.29741400  0.36150700  0.28146900  1
+  O  O19  1  0.18989500  0.58028200  0.71755800  1
+  O  O20  1  0.25978100  0.98209900  0.54486700  1
+  O  O21  1  0.07743000  0.19305800  0.90347100  1
+  O  O22  1  0.63623700  0.15703300  0.68891100  1
+  O  O23  1  0.51180200  0.73708300  0.95554500  1
+  O  O24  1  0.28080000  0.28785300  0.65062600  1
+  O  O25  1  0.12216700  0.83160800  0.85885900  1

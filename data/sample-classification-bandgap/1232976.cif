@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr2LiPr2Fe2(RuO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73811841
+_cell_length_b   5.63079033
+_cell_length_c   8.12762972
+_cell_angle_alpha   91.29888974
+_cell_angle_beta   87.77339271
+_cell_angle_gamma   91.18274277
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiPr2Fe2(RuO6)2
+_chemical_formula_sum   'Sr2 Li1 Pr2 Fe2 Ru2 O12'
+_cell_volume   262.28784238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.44212100  0.50177500  0.68903900  1
+  Sr  Sr1  1  0.97712400  0.01105700  0.26170100  1
+  Li  Li2  1  0.72978600  0.46482800  0.88818100  1
+  Pr  Pr3  1  0.02684800  0.98467200  0.75965600  1
+  Pr  Pr4  1  0.47500300  0.47729900  0.24765800  1
+  Fe  Fe5  1  0.04927500  0.49991200  0.02380400  1
+  Fe  Fe6  1  0.49980700  0.00313100  0.49709700  1
+  Ru  Ru7  1  0.98412900  0.51061300  0.50063900  1
+  Ru  Ru8  1  0.51411700  0.99287300  0.00038000  1
+  O  O9  1  0.98464900  0.40874800  0.74395700  1
+  O  O10  1  0.48427600  0.08171000  0.75680700  1
+  O  O11  1  0.02769400  0.57507500  0.26489200  1
+  O  O12  1  0.51694300  0.90304300  0.24763400  1
+  O  O13  1  0.24196500  0.25762300  0.46025200  1
+  O  O14  1  0.73937200  0.26766300  0.05976800  1
+  O  O15  1  0.79084300  0.78009500  0.95793100  1
+  O  O16  1  0.23467500  0.77062300  0.53708000  1
+  O  O17  1  0.75920100  0.78075700  0.54783800  1
+  O  O18  1  0.29465000  0.72767000  0.94203500  1
+  O  O19  1  0.25381900  0.21408200  0.05329100  1
+  O  O20  1  0.71179700  0.28675100  0.45203000  1
